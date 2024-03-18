@@ -1,10 +1,10 @@
 # Mahjong
 
-Versión del autor: Qinye Li (qinyeli@umich.edu)  
-https://github.com/camilo1962/MahjongEF/blob/main/Assets/Sprites/Reglas.png
+Versión del autor: Qinye Li.
 
-![]((https://github.com/camilo1962/MahjongEF/blob/main/Assets/Sprites/Reglas.png)https://github.com/camilo1962/MahjongEF/blob/main/Assets/Sprites/Reglas.png)
+![](https://github.com/camilo1962/MahjongEF/blob/main/Assets/Sprites/Reglas.png)
 
-## Contiene
 
-Cinco niveles de figuras con tabla de records.
+# Contiene
+
+Hecho en Unity con cinco niveles de figuras y tabla de records.
